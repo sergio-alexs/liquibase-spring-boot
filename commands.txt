@@ -1,0 +1,2 @@
+liquibase --version
+./gradlew bootRun
